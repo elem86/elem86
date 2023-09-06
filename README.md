@@ -29,19 +29,19 @@ Here are a few projects I've been working on:
    - Conducted data preparation, cleaning, and handled missing values.
    - Performed customer segmentation using clustering algorithms.
    - Implemented collaborative filtering for product recommendations.
-   - [GitHub Link]
+   - [GitHub Link](link-to-your-github-repo)
 
 2. **EDA Project with Render**
    - Web application development with pandas, streamlit, and plotly-express.
    - Conducted exploratory data analysis, generating histograms and scatter plots.
    - Created a user-friendly app with enhanced features.
-   - [GitHub Link]
+   - [GitHub Link](link-to-your-github-repo)
 
 3. **Tableau Project for Profit Optimization**
    - Developed a Tableau dashboard for profit optimization.
    - Explored profit and loss centers through visualizations.
    - Optimized product offerings and evaluated advertising effectiveness.
-   - [GitHub Link]
+   - [GitHub Link](link-to-your-github-repo)
 
 ## Let's Connect!
 
