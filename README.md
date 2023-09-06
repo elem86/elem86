@@ -35,13 +35,13 @@ Here are a few projects I've been working on:
    - Web application development with pandas, streamlit, and plotly-express.
    - Conducted exploratory data analysis, generating histograms and scatter plots.
    - Created a user-friendly app with enhanced features.
-   - [GitHub Link](link-to-your-github-repo)
+   - [GitHub Link](https://github.com/elem86/EDAProject)
 
 3. **Tableau Project for Profit Optimization**
    - Developed a Tableau dashboard for profit optimization.
    - Explored profit and loss centers through visualizations.
    - Optimized product offerings and evaluated advertising effectiveness.
-   - [GitHub Link](link-to-your-github-repo)
+   - [GitHub Link](https://github.com/elem86/tableau_project)
 
 ## Let's Connect!
 
