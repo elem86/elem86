@@ -29,7 +29,7 @@ Here are a few projects I've been working on:
    - Conducted data preparation, cleaning, and handled missing values.
    - Performed customer segmentation using clustering algorithms.
    - Implemented collaborative filtering for product recommendations.
-   - [GitHub Link](link-to-your-github-repo)
+   - [GitHub Link](https://github.com/elem86/final_project)
 
 2. **EDA Project with Render**
    - Web application development with pandas, streamlit, and plotly-express.
