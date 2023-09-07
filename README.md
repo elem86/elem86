@@ -47,6 +47,6 @@ Here are a few projects I've been working on:
 
 I'm always excited to connect with fellow data enthusiasts and professionals. Let's explore how my analytical skills, advanced communication, and passion for data can make a difference for your team. 🤝
 
-Feel free to reach out to me via email at [hunorby@gmail.com](mailto:hunorby@gmail.com).
+Feel free to reach out to me via email at [hunorby@gmail.com](mailto:hunorby@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/norbert-huszti/)
 
 Looking forward to connecting and collaborating!
