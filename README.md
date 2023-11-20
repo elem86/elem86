@@ -25,7 +25,7 @@ I'm Norbert, an aspiring Data Analyst with a passion for turning data into actio
 
 Here are a few projects I've been working on:
 
-1. **Ongoing Machine Learning project, developing a Q&A generative solution for automated Customer Support.**
+1. **Machine Learning project, developing a Q&A generative solution for automated Customer Support.**
    - Data cleaning and pre-processing using custom Python scripts.
    - Spearheading an advanced Machine Learning project to create a sophisticated Q&A generative solution leveraging the LLaMA model.
    - Successfully reached the goal of the project as the app can answer questions by combining retrieval-based and generative methods for dynamic answer generation without a        fixed accuracy target, focusing on robust and contextually relevant outputs.
